@@ -1,0 +1,2 @@
+spotify_token = 73a792ea8626433da9f5ff5f11535998 
+spotify_user_id =  4671f1cb35004105af5ea20ae6fc36e7

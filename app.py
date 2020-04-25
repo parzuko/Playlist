@@ -1,8 +1,12 @@
 
-
+import os
 import json
 import requests 
 from secrets import spotify_user_id, spotify_token
+
+import google_auth_oauthlib.flow
+import googleapiclient.discovery
+import googleapiclient.errors
 
 
 class CreatePlaylist():
@@ -10,7 +14,10 @@ class CreatePlaylist():
     def __init__(self):
         self.user_id = spotify_user_id
         self.spotify_token = spotify_token
-    
+        self.get_youtube_client = self.get_youtube_client()
+        
+
+
     #log into youtube
     def get_youtube_client(self):
         pass

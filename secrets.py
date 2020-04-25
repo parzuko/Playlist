@@ -1,2 +1,2 @@
-spotify_token = 73a792ea8626433da9f5ff5f11535998 
-spotify_user_id =  4671f1cb35004105af5ea20ae6fc36e7
+spotify_token = BQCbhFGqubxTn96WUaPHgMEyFB-mGx3vrIzEutxLX7BjJ_9HK1jpOTRpHtRxCJpSQ6x9Het1BkAq6m-LoodNe1N7V5I2mOcs0seR_pzwU8L47X4isCOAEVGLQQQ-BjPruXDFKlanG7ZxdRGrBpWI_QpMEDtq57Ca1hZvLPKxAG3ewAWMmRowK1THgP9uXrg
+spotify_user_id =  s2lcb39hgvq8g7r8nofs8b351
